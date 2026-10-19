@@ -1,9 +1,8 @@
-# デジタル裏探訪 サムネイル比較
+# デジタル裏探訪・テーマとサムネイルの比較
 
-初回の3テーマ × 5案を比較する公開ページです。
+共有用ページ: https://tokyo-xdeveloper.github.io/digital-history-thumbnail-review/
 
-完成画像15枚と表示用HTMLのみを収録しています。写真の作者・出典・利用条件はページ内の各案に記載しています。第三者素材にはそれぞれの利用条件が適用されます。
+- 第2回: ファミコンの修正版F1〜F5と、新テーマN1〜N3
+- 第1回: round-1.html、3テーマ各5案のA1〜C5
 
-公開URL: https://tokyo-xdeveloper.github.io/digital-history-thumbnail-review/
-
-GitHub Pages は main ブランチのルートを公開します。案の番号 A1〜C5 は初回案として固定しています。
+批評のための試作。動画としての公開、またはクリック率の改善を示す実績ではありません。各写真の作者・利用条件・掲載元と、立ち絵の表記はページ内に記載しています。
